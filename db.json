@@ -1,9 +1,10 @@
 {
-  "garages": [
+  "garages":
     {
       "garageId": "f48da692-3092-45fc-94ed-44e45d8ed457",
-      "garageName": "ParkBee(26802): ParkBee(26802): Botersloot",
-      "name": "ParkBee(26802): Botersloot",
+      "garageName": "ParkBee(26802): Botersloot",
+      "name": "Botersloot",
+      "zoneNumber": 26802,
       "latitude": 51.922474,
       "longitude": 4.486856,
       "streetAddress": "Librijesteeg",
@@ -90,5 +91,4 @@
         }
       ]
     }
-  ]
 }
