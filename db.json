@@ -186,5 +186,10 @@
       ]
     }
   ],
- 
+  "pricing": 
+      {
+         "type": "standard",
+         "basePrice": 2,
+         "dailyCap": 25
+      } 
 }
