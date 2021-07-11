@@ -106,6 +106,85 @@
       "wheelChairAccessible": true,
       "evCharging": true,
       "manned": false
+     },
+   "openingHours": [
+    {
+      "dayOfWeek": "Wednesday",
+      "timeSlots": [
+        {
+          "id": "c6e45976-d531-4d0e-881b-d63ae65e81e3",
+          "startTime": "00:00",
+          "endTime": "23:55",
+          "amountOfSpaces": 2
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "timeSlots": [
+        {
+          "id": "b3c987fa-15b1-474c-9175-b216879ab112",
+          "startTime": "00:00",
+          "endTime": "23:55",
+          "amountOfSpaces": 2
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "timeSlots": [
+        {
+          "id": "f3e4eabf-de33-48ed-aa7e-67959bd285de",
+          "startTime": "00:00",
+          "endTime": "23:55",
+          "amountOfSpaces": 2
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "timeSlots": [
+        {
+          "id": "de789697-fdbf-4413-8d8c-34c903e3b037",
+          "startTime": "00:00",
+          "endTime": "23:55",
+          "amountOfSpaces": 2
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Monday",
+      "timeSlots": [
+        {
+          "id": "8e6ee767-fddc-4ff1-a3b4-cc70778689b2",
+          "startTime": "00:00",
+          "endTime": "23:55",
+          "amountOfSpaces": 2
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "timeSlots": [
+        {
+          "id": "42369bd6-48b6-4434-b251-dc819fb17255",
+          "startTime": "00:00",
+          "endTime": "23:55",
+          "amountOfSpaces": 2
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Friday",
+      "timeSlots": [
+        {
+          "id": "1522cba7-aa54-4880-809b-37faf153eb7e",
+          "startTime": "00:00",
+          "endTime": "23:55",
+          "amountOfSpaces": 2
+        }
+      ]
     }
+  ],
  
 }
