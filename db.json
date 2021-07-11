@@ -96,7 +96,7 @@
     "amenities": {
         "garageId": "2a29328f-4c8e-4b02-ba0e-d2df2635f616",
         "isIndoor": true,
-        "isOutdoor": false,
+        "isOutdoor": true,
         "maximumHeadSpaceInMeters": 1.7,
         "widthRestrictionInMeters": 5,
         "wheelChairAccessible": true,
