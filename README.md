@@ -1,3 +1,3 @@
-# server-GitHub-Jobs-App
+# Server GitHub Jobs Application
 
 Hace de servidor para la aplicación de GitHub Jobs 
