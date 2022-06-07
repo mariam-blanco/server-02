@@ -1,0 +1,20 @@
+{
+  "name": "server-github-jobs",
+  "version": "1.0.0",
+  "description": "Fake server for GitHub Jobs App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariam-blanco/server-github-jobs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/mariam-blanco/server-github-jobs#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
